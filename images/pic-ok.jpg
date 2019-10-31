@@ -1,0 +1,5 @@
+a:13:{s:18:"__sape_delimiter__";s:0:"";s:12:"__for_user__";s:32:"22aa5e0e5194b0de09d0e6e14673f610";s:12:"__for_host__";s:27:"http://handball-taganrog.ru";s:31:"__sape_page_obligatory_output__";s:284:"<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script>";s:16:"__sape_new_url__";s:20:"<!--2190442387452-->";s:12:"__sape_ips__";a:2:{i:0;s:13:"188.72.80.205";i:1;s:13:"188.72.80.201";}s:16:"__sape_charset__";s:12:"windows-1251";s:15:"__last_update__";i:1401560932;s:14:"__multi_site__";b:0;s:21:"__fetch_remote_type__";s:17:"file_get_contents";s:15:"__ignore_case__";b:0;s:15:"__php_version__";s:5:"5.3.3";s:19:"__server_software__";s:6:"Apache";}

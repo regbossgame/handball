@@ -1,0 +1,1 @@
+<?$str='login.php';include "all.php";?>

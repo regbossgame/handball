@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/handball-taganrog.ru/webstat"
+AuthUserFile /var/www/user3567/data/etc/115343849.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

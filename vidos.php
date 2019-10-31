@@ -1,0 +1,1 @@
+<div style='float: right; margin: 5px 10px;'><a href='video.php?id=640697'><b>Смотреть новое видео</b> <br><img src='http://i2.ytimg.com/vi/T3Oo16sEklk/default.jpg' border=1 width=200px height=150px title='' alt='' style='display:inline-block;'/><br><div style='font-size:7pt;color:#FFFFFF;width:202px;background:#000000;'>УОР4- Факел Таганрог 15.04.2018 Второй тайм</div></a></div>

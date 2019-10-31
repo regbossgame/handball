@@ -1,0 +1,20 @@
+<table style="background-image: url('imgs/1378191408_53343_file.jpg'); height: 700px; width: 760px;" dir="ltr">
+<tbody>
+<tr>
+<td valign="top">
+<p style="text-align: justify;" align="center"><span style="font-family: 'trebuchet ms', geneva; font-size: medium;"> #ВИДЕО# Команда основана в 1986 году,</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">&nbsp;выступала под названиями &laquo;Факел&raquo;, &laquo;Факел ТКЗ Красный котельщик&raquo;.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">Многократный чемпион Ростовской области.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">Финалист чемпионата ДСО &laquo;Труд&raquo; 1989 г.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">Обладатель Кубка освобождения Таганрога 2000 г.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">Победитель турнира Кубок мэра г. Таганрога 2001 г.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">С 1988 по 1995 гг. команда принимала участие в чемпионатах СССР и России &nbsp; &nbsp; &nbsp; в первой лиге, в 1995 г. команда завоевала право играть в высшей лиге.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">Участник первенства России среди команд высшей лиги 1996-2010 гг.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">Участник первенства России среди команд суперлиги 2011 г.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">Чемпион России среди команд высшей лиги 2006 г.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">Чемпион России среди команд высшей лиги 2013 г.&nbsp;<span>Клубные цвета - красные,черные</span></span></p>
+<p style="text-align: left;" align="center"><em><span style="font-family: 'trebuchet ms', geneva; font-size: medium;"><strong>Воспитанники команды:</strong></span></em></p>
+<ul style="list-style-type: disc;">
+<li style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva; font-size: medium;"><em><strong>Сергей Тарасенко</strong> -&nbsp;</em></span><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">мастер спорта международного класса,&nbsp;трехкратный чемпион России &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; в составе ЦСКА, чемпион мира среди армейских клубов 1996 г.</span></li>
+<li style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva; font-size: medium;"><em><strong>Алексей Кайдалов</strong> -&nbsp;</em>мастер спорта &nbsp;- чемпион СССР</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; color: #000000; font-size: medium;">&nbsp;<strong><em>Алексей Карякин</em></strong> - выступал в суперлиге за &laquo;Энергию&raquo; Воронеж, играл в третьем дивизионе немецкой бундеслиги</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; color: #000000; font-size: medium;"><em><strong>Александр Кушнарев</strong></em> - выступал в суперлиге за &laquo;Энергию&raquo; Воронеж</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; color: #000000; font-size: medium;"><em>&nbsp;<strong>Вячеслав Есауленко</strong></em> - играл в суперлиге за &laquo;Динамо-Лукойл&raquo; Астрахань, &laquo;Каустик&raquo; Волгоград, призер чемпионата России.</span></li>
+</ul>
+<p style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva; color: #000000; font-size: medium;"><em><strong>Домашние матчи &laquo;Факел&raquo; проводит во Дворце Спорта <span style="color: #ff0000;">&laquo;Красный котельщик&raquo;</span>&nbsp;</strong></em> (вместимость 1500 ).&nbsp;</span></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-family: 'trebuchet ms', geneva; font-size: medium;">&nbsp;</span></p>

@@ -1,0 +1,1 @@
+<?include "conf_bdpas.php";include "bd.php";$sql = "DELETE FROM kor WHERE ((".time()."-treg)>".(3600*24*30).")";			$result = @mysql_query("$sql",$db);$sql = "DELETE FROM users WHERE act LIKE '0' AND ((".time()."-treg)>".(3600*24*60).")";			$result = @mysql_query("$sql",$db);?>

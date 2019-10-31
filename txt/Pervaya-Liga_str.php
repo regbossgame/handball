@@ -1,0 +1,2 @@
+<h1><img style="-webkit-user-select: none; cursor: zoom-out;" src="http://files.pavlsport.com/200000924-6955f6a4d8/%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%201.jpg" alt="" width="733" height="923" /></h1>
+<p><img src="http://russianhandball.ru/upload/resize_cache/blog/0d6//600_600_1/0d61982e3e43b966e5accb160400767e.jpg" alt="" width="750" height="230" /></p>

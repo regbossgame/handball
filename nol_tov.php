@@ -1,0 +1,1 @@
+<?include "conf_bdpas.php";include "bd.php";$sql = "UPDATE tov SET stat=0, statp=0"; $result = @mysql_query("$sql",$db);?>

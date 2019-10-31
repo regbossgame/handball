@@ -1,0 +1,98 @@
+.Container {
+    padding: 0;
+    margin: 0;
+}
+.menal{
+float:right;
+}
+
+.Container li {
+    list-style-type: none;
+}
+
+.step2 {
+	margin: 0px;
+	padding: 5px;
+}
+
+
+/* indent for all tree children excepts root */
+.step2 .Node {
+    background-image : url(res/men/tp.gif);
+    background-position : top left;
+    background-repeat : repeat-y;
+    margin-left: 17px;
+    zoom: 1;
+}
+
+.step2 .IsRoot {
+    margin-left: 0;
+}
+
+.step2 .ExpandOpen .Expand {
+    background-image: url(res/men/minus.gif);
+}
+
+.step2 .ExpandLast .Expand {
+    background-image: url(res/men/dir.gif);
+}
+
+ 
+/* closed is higher priority than open */
+.step2 .ExpandClosed .Expand {
+    background-image: url(res/men/plus.gif);
+}
+ 
+/* highest priority */
+.step2 .ExpandLeaf .Expand {
+    background-image: url(res/men/js.gif);
+    width:18px;
+    height:18px;
+}
+
+.Content {
+    min-height: 18px;
+    margin-left:18px;
+}
+
+* html .step2  .Content {
+    height: 18px; 
+}
+
+.step2 .Expand {
+    width: 33px;
+    height: 16px;
+    float: left;
+}
+
+.step2 .ExpandOpen .Container {
+	display: block;
+}
+
+.step2 .ExpandClosed .Container {
+	display: none;
+}
+
+.step2 .ExpandOpen .Expand, .step2 .ExpandClosed .Expand {
+	cursor: pointer;
+}
+.step2 .ExpandLeaf .Expand {
+	cursor: auto;
+}
+
+
+.step3 .Node {
+	margin-left: 36px;
+}
+.step3 .Content {
+	margin-left: 36px;
+}
+.step3 .IsRoot { margin-left: 0; }
+
+.step3 input {
+    width: 14px;
+    height: 14px;
+    float: left;
+    margin: 2px;
+}
+	
